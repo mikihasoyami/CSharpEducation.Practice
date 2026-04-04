@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "CSharpEducation.Practice.slnx",
+    "projects": [
+      "Task.CSharpBase\\Task1A.csproj"
+    ]
+  }
+}
