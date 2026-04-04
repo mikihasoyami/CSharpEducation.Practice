@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <BaseOutputPath>D:\EducationProject\CSharpProject\CSharpEducation.Practice\Task2Bin</BaseOutputPath>
+    <Configurations>Debug;Release;CheckIn</Configurations>
   </PropertyGroup>
 
 </Project>

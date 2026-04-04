@@ -1,6 +1,13 @@
 <Solution>
+  <Configurations>
+    <BuildType Name="CheckIn" />
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+  </Configurations>
   <Folder Name="/solution folder/">
-    <Project Path="Task.CSharpBase/Task1A.csproj" />
+    <Project Path="Task.CSharpBase/Task1A.csproj">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
     <Project Path="Task1B/Task1B.csproj" />
   </Folder>
 </Solution>
