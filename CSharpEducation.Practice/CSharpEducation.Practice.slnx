@@ -9,5 +9,17 @@
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
     <Project Path="Task1B/Task1B.csproj" />
+    <Project Path="Task2/Task2.csproj" Id="44dee1c4-1e33-4b12-af50-963c10c5cec2">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task3/Task3.csproj" Id="d874566a-fe1e-4001-8b7e-1b6b511b08c2">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task4/Task4.csproj" Id="2efad865-8812-49ff-89a1-33241ccd0881">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task5/Task5.csproj" Id="a3dbf9ce-5324-42de-bc13-26a97fa094fd">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
   </Folder>
 </Solution>
