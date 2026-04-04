@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="Task.CSharpBase/Task.CSharpBase.csproj" />
+  <Folder Name="/solution folder/">
+    <Project Path="Task.CSharpBase/Task1A.csproj" />
+    <Project Path="Task1B/Task1B.csproj" />
+  </Folder>
 </Solution>

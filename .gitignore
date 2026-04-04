@@ -1,0 +1,29 @@
+# Сборка и временные файлы
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Настройки пользователя Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Файлы пакетов (NuGet)
+packages/
+# Допускается, если используется PackageReference, но обычно проекты не включают dll
+*.nupkg
+
+# Результирующие файлы
+*.dll
+*.pdb
+*.so
+*.dylib
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
