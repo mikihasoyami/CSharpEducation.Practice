@@ -4,21 +4,80 @@
     <BuildType Name="Debug" />
     <BuildType Name="Release" />
   </Configurations>
-  <Folder Name="/solution folder/">
-    <Project Path="Task.CSharpBase/Task1A.csproj">
+  <Folder Name="/Practice1/">
+    <Project Path="D:/EducationProject/CSharpProject/CSharpEducation.Practice/CSharpEducation.Practice/Task.CSharpBase/Practice1.Task1A.csproj">
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
-    <Project Path="Task1B/Task1B.csproj" />
-    <Project Path="Task2/Task2.csproj" Id="44dee1c4-1e33-4b12-af50-963c10c5cec2">
+    <Project Path="D:/EducationProject/CSharpProject/CSharpEducation.Practice/CSharpEducation.Practice/Task1B/Practice1.Task1B.csproj" />
+    <Project Path="Task2/Practice1.Task2.csproj" Id="44dee1c4-1e33-4b12-af50-963c10c5cec2">
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
-    <Project Path="Task3/Task3.csproj" Id="d874566a-fe1e-4001-8b7e-1b6b511b08c2">
+    <Project Path="Task3/Practice1.Task3.csproj" Id="d874566a-fe1e-4001-8b7e-1b6b511b08c2">
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
-    <Project Path="Task4/Task4.csproj" Id="2efad865-8812-49ff-89a1-33241ccd0881">
+    <Project Path="Task4/Practice1.Task4.csproj" Id="2efad865-8812-49ff-89a1-33241ccd0881">
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
-    <Project Path="Task5/Task5.csproj" Id="a3dbf9ce-5324-42de-bc13-26a97fa094fd">
+    <Project Path="Task5/Practice1.Task5.csproj" Id="a3dbf9ce-5324-42de-bc13-26a97fa094fd">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task6/Practice1.Task6.csproj">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Task7/Practice1.Task7.csproj">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+  </Folder>
+  <Folder Name="/Practice2/">
+    <Project Path="Practice2.Task1/Practice2.Task1.csproj" Id="e55d898a-9c6d-4d1a-aeb1-fb723ccb3619">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task10/Practice2.Task10.csproj" Id="4464e1aa-e410-4681-8e99-acc7a9a828c6">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task11/Practice2.Task11.csproj" Id="b9559b39-b9b0-4d8c-be89-3a16c2b22017">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task12/Practice2.Task12.csproj" Id="e88949be-d0ab-4d81-9815-c8564845dcca">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task13/Practice2.Task13.csproj" Id="2a15008a-824c-4c67-b2e6-cd48984cd2b9">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task14/Practice2.Task14.csproj" Id="7d7a1ecf-e655-411f-b0bb-598d65663f70">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task15/Practice2.Task15.csproj" Id="ce95a5e5-1418-4e53-9507-1ae930c361a5">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task16/Practice2.Task16.csproj" Id="81df3eef-32f6-4db6-84a2-2c17e84562e9">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task17/Practice2.Task17.csproj" Id="4c37d057-5a65-4e69-bee4-220cfc4a4cb2">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task2/Practice2.Task2.csproj" Id="9bd53a99-c7a4-4d5d-adcf-e00746664cf1">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task3/Practice2.Task3.csproj" Id="1fd0e41d-1d81-4e3f-8073-69054da77c0d">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task4/Practice2.Task4.csproj" Id="5145726e-2681-4ef0-a6d7-332e1c5c8518">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task5/Practice2.Task5.csproj" Id="dcbbfc6d-fae2-4aae-a8d2-13791b50af71">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task6/Practice2.Task6.csproj" Id="4e537b9a-deab-4679-8756-73aeccf766d8">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task7/Practice2.Task7.csproj" Id="141013ed-67e9-4a20-b7e7-241c77ad64e2">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task8/Practice2.Task8.csproj" Id="8489007a-5f3c-4c71-bec5-a21dfcea543b">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice2.Task9/Practice2.Task9.csproj" Id="bcba652a-2751-4265-bcea-3a6250453b25">
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
   </Folder>
