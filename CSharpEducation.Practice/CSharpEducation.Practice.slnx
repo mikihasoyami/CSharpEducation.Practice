@@ -105,4 +105,39 @@
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
   </Folder>
+  <Folder Name="/Practice3/">
+    <Project Path="Practice3.Task1/Practice3.Task1.csproj" Id="634a93f8-3093-4544-8f31-8a444c689318">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task10/Practice3.Task10.csproj" Id="2cc08350-350c-4d67-b07b-fdf4bf6ba0d2">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task11/Practice3.Task11.csproj" Id="8d4c986d-4455-49d4-bd17-d0dc7d44fe75">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task2/Practice3.Task2.csproj" Id="480360d2-2a46-4ea1-87f8-23650e969e58">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task3/Practice3.Task3.csproj" Id="c10322b0-3f8b-4b85-b971-ae56a13d1c77">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task4/Practice3.Task4.csproj" Id="eb2fbd70-18e6-4a94-a584-8900b271317d">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task5/Practice3.Task5.csproj" Id="081518bb-7963-4514-8084-2046e6549dcb">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task6/Practice3.Task6.csproj" Id="7b300ea8-3bf4-4bac-8585-f54c985d1500">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task7/Practice3.Task7.csproj" Id="f055cfc8-b66b-4df6-a394-ae78a7d35716">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task8/Practice3.Task8.csproj" Id="b5657c2c-d583-4c31-8d37-1a0d27741fb0">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task9/Practice3.Task9.csproj" Id="1b3fcf5d-9798-45fd-b9b0-cbe7cc7e5477">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+  </Folder>
 </Solution>
