@@ -106,6 +106,9 @@
     </Project>
   </Folder>
   <Folder Name="/Practice3/">
+    <Project Path="MathHelper/Practice3.Task12.csproj" Id="9a682d06-a0e2-487e-b19f-a1dc9acde477">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
     <Project Path="Practice3.Task1/Practice3.Task1.csproj" Id="634a93f8-3093-4544-8f31-8a444c689318">
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
@@ -113,6 +116,15 @@
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
     <Project Path="Practice3.Task11/Practice3.Task11.csproj" Id="8d4c986d-4455-49d4-bd17-d0dc7d44fe75">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task12/Practice3.Task13.csproj" Id="af61187b-25fc-465d-9b01-938aac29939f">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task14/Practice3.Task14.csproj" Id="2aa6e6ba-7408-4988-8997-4c951846eb73">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice3.Task15/Practice3.Task15.csproj" Id="6f13e7ca-73fe-490b-83eb-a6ab9630b6ee">
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
     <Project Path="Practice3.Task2/Practice3.Task2.csproj" Id="480360d2-2a46-4ea1-87f8-23650e969e58">
