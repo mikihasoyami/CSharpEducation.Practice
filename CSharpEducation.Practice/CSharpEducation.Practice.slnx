@@ -152,4 +152,15 @@
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
   </Folder>
+  <Folder Name="/Practice4/">
+    <Project Path="Logger/Practice4.Task2.csproj" Id="6b5b4b19-8332-4af9-9474-56335eac5af6">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice4.Task1/Practice4.Task1.csproj" Id="60f4be59-dc0a-4c0b-8b50-4014a48df9bb">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+    <Project Path="Practice4.Task3/Practice4.Task3.csproj" Id="eb97ee3d-5052-4d39-839e-4c57a0f48f7f">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
+  </Folder>
 </Solution>
